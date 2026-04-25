@@ -1,8 +1,6 @@
 ---
-title: Overview
+title: Welcome to the Art of Neuron!
 ---
-
-# Welcome to the Art of Neuron!
 
 :::{image} images/splash.jpg
 :alt: Splash image
