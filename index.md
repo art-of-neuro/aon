@@ -2,7 +2,12 @@
 title: Overview
 ---
 
-# Overview
+# Welcome to the Art of Neuron!
+
+:::{image} images/splash.jpg
+:alt: Splash image
+:width: 100%
+:::
 
 This is the landing page for the book.
 

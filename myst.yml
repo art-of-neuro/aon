@@ -1,12 +1,12 @@
 version: 1
 
 project:
-  title: "Art of Neuro"
+  title: "Art of Neuron"
   authors:
     - name: "Rudramani Singha"
     - name: "Novak Chen"
   copyright: "2026"
-  github: "https://github.com/art-of-neuro/aon"
+  github: "https://github.com/art-of-neuron/aon"
   bibliography:
     - references.bib
   toc:
@@ -23,12 +23,12 @@ project:
         - file: chapters/hello.ipynb
 site:
   template: book-theme
-  title: "Art of Neuro"
+  title: "Art of Neuron"
   options:
     favicon: images/favicon.ico
     logo: images/logo.png
     logo_alt: "logo"
-    logo_text: "The Art of Neuro ∈ {math, models, systems, ...}"
+    logo_text: "The Art of Neuron ∈ {math, models, systems, ...}"
     hide_authors: false
     analytics_google: ""
     analytics_plausible: ""
