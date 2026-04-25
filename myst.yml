@@ -24,6 +24,8 @@ project:
 site:
   template: book-theme
   title: "Art of Neuron"
+  parts:
+    primary_sidebar_footer: _site/primary_sidebar_footer.md
   options:
     favicon: images/favicon.ico
     logo: images/logo.png
