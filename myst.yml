@@ -25,7 +25,10 @@ site:
   template: book-theme
   title: "Art of Neuro"
   options:
-    logo_text: "Art of Neuro"
+    favicon: images/favicon.ico
+    logo: images/logo.png
+    logo_alt: "logo"
+    logo_text: "The Art of Neuro ∈ {math, models, systems, ...}"
     hide_authors: false
     analytics_google: ""
     analytics_plausible: ""
