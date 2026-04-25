@@ -1,0 +1,33 @@
+version: 1
+
+project:
+  title: "Art of Neuro"
+  authors:
+    - name: "Rudramani Singha"
+    - name: "Novak Chen"
+  copyright: "2026"
+  github: "https://github.com/art-of-neuro/aon"
+  bibliography:
+    - references.bib
+  toc:
+    - file: index.md
+
+    - title: "Part I: Foundations"
+      file: chapters/hello.ipynb
+      sections:
+        - file: chapters/hello.ipynb
+        - file: chapters/hello.ipynb
+    
+    - title: "Part II: Probability"
+      file: chapters/hello.ipynb
+      sections:
+        - file: chapters/hello.ipynb
+        - file: chapters/hello.ipynb
+site:
+  template: book-theme
+  title: "Art of Neuro"
+  options:
+    logo_text: "Art of Neuro"
+    hide_authors: false
+    analytics_google: ""
+    analytics_plausible: ""
