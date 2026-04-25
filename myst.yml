@@ -13,13 +13,11 @@ project:
     - file: index.md
 
     - title: "Part I: Foundations"
-      file: chapters/hello.ipynb
       sections:
         - file: chapters/hello.ipynb
         - file: chapters/hello.ipynb
     
     - title: "Part II: Probability"
-      file: chapters/hello.ipynb
       sections:
         - file: chapters/hello.ipynb
         - file: chapters/hello.ipynb
