@@ -1,1 +1,4 @@
 mystmd
+numpy
+matplotlib
+seaborn

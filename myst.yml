@@ -9,18 +9,20 @@ project:
   github: "https://github.com/art-of-neuron/art-of-neuron.github.io"
   bibliography:
     - references.bib
+  plugins:
+    - type: javascript
+      path: plugins/hide-notebook-inputs.mjs
   toc:
     - file: index.md
 
     - title: "Part I: Foundations"
       children:
         - file: chapters/hello.ipynb
-        - file: chapters/hello.ipynb
-    
-    - title: "Part II: Probability"
+
+    - title: "Part II: Linear Algebra"
       children:
-        - file: chapters/hello.ipynb
-        - file: chapters/hello.ipynb
+        - file: chapters/linear_algebra/linear_algebra_concepts.ipynb
+
 site:
   template: book-theme
   title: "Art of Neuron"
